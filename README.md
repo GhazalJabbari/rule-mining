@@ -1,1 +1,1 @@
-# rule-mining
+# Rule mining using Apriori algorithm
